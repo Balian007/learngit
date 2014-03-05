@@ -1,2 +1,2 @@
-git git git
-git is a free software
+git git gitTrends21Git is a distributed version control system.
+Git is free software distributed under the GPL.
